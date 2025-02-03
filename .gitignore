@@ -1,0 +1,39 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build and output directories
+dist/
+build/
+.out/
+.next/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.iml
+
+# CSV files
+*.csv
